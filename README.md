@@ -1,6 +1,6 @@
 # API REST / CRUD Pokemons
 
-<img src="https://imgur.com/uGFBf1a"/>
+<img src="https://i.imgur.com/uGFBf1a.png"/>
 
 An app to Create, Read, Update and Delete pokemons.
 
